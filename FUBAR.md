@@ -14,3 +14,6 @@ This is what Bob and Carol have been working on, it's an awesome feature. Enjoy 
 How do you organize a space party?
 
 You planet!
+
+Ted and Alice have made this awesome joke for you!
+I used to play piano by ear, but now I use my hands and fingers.
